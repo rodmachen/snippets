@@ -3,27 +3,27 @@
 First, make sure some version of Node is installed (mainly for the accompanying NPM capabilities.) I suggest using [Homebrew](http://brew.sh/).
 
 ```
-brew install node
+$ brew install node
 ```
 
 Next, install n. (Use sudo if necessary.)
 
 ```
-npm install -g n
+$ npm install -g n
 ```
 
 With n installed, there are several ways to install various versions of Node:
 
 ```
-n lts
-n stable
-n 0.12.10
+$ n lts
+$ n stable
+$ n 0.12.10
 ```
 
 To change versions, simply call n and arrow up and down to choose:
 
 ```
-n
+$ n
 
   0.12.10
 ο 4.2.1
