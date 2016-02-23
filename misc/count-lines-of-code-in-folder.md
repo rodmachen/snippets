@@ -3,7 +3,7 @@
 In order to count lines of code, first navigate to the correct folder and then run this bash command:
 
 ```
-find . -name '*.js' | xargs wc -l
+$ find . -name '*.js' | xargs wc -l
 ```
 
 Replace `js` with any file extension, or replace it with `*` to include everything.
