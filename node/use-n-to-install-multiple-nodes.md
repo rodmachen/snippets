@@ -1,4 +1,4 @@
-# Use N to install multiple versions of Node
+## Use N to install multiple versions of Node
 
 First, make sure some version of Node is installed (mainly for the accompanying NPM capabilities.) I suggest using [Homebrew](http://brew.sh/).
 
@@ -30,12 +30,12 @@ $ n
   5.6.0
 ```
 
-## Backstory
+### Backstory
 
 I found myself needing an older version of Node for work and came upon this solution.
 
 With a fresh install, I had gone with Node 5, but this project was using 0.12. The probably actually wasn't with Node itself, but with NPM. The newest versions of Node use NPM 3, but I needed NPM 2 due to its non-flattened folder structure, which this project used. After installed 0.12.10, I moved over to it, and had the NPM version I needed. 
 
-### Reference
+#### Reference
 
 [github.com/tj/n](https://github.com/tj/n)
