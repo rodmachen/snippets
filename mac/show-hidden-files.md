@@ -16,7 +16,7 @@ $ killall Finder
 
 Caveat: There's an ugly little file called DS_store that does nothing but store the way the contents of a folder are shown in the finder. Navigating to any folder will create one, and this can be a mess for git operations. The solution is simply to add it to `.gitignore`.
 
-## Backstory
+### Backstory
 
 The biggest reason I always set up my environment this way is so I can use the finder to copy all of the contents of a folder, including things like `.git`.
 
