@@ -8,7 +8,7 @@ To move a repo from one org to another, follow these steps from the official Git
 4. Read the warnings and enter the repository name to confirm that you've done so.
 5. Type the name of the new owner and click **I understand, transfer this repo**.
 
-Caveat: You must have admin (or owner) right on both the sending and receiving orgs. This only makes sense to protect repos from being unduly moved.
+Caveat: You must have admin (or owner) rights on both the sending and receiving orgs. This only makes sense to protect repos from being unduly moved.
 
 ### Backstory
 
