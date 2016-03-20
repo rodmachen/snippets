@@ -31,6 +31,10 @@ Enter | Result
 `e` | go to end of current word
 `$` | go to end of line
 `0` | go the start of line
+`h` or ← | left one character
+`j` or ↓ | down one line
+`k` or ↑ | up one line
+`l` or → | right one character
 
 Preface any movement with a number to increase movement.
 
@@ -39,6 +43,10 @@ Enter | Result
 `1w` | same functionality as `w`
 `2e` | go to end of next word
 `3$` | go to end of third line
+`4` ← | left 4 characters
+`5` ↓ | down 5 lines
+`6` ↑ | up 6 lines
+`7` → | right 7 characters
 
 ### Deletion
 
