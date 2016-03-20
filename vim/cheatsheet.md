@@ -27,3 +27,12 @@ Close and exit
 ```vim
 ZZ
 ```
+
+### Movement
+
+Enter | Result
+--- | ---
+`w` | go the beginning of the next word
+`e` | go to end of current word
+`$` | go to end of line
+`0` | go the start of line
