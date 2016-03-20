@@ -1,20 +1,15 @@
-# My Vim Cheatsheet
+# Vim Cheatsheet
 
-Not comprehensive.
+Subjective. Incomplete. 
 
 ### Modes
-* normal
-  * default
-  * `<ESC>` from any other mode
-* insert
-  * for typing code
-  * `i` from normal mode
-* visual
-  * for selecting text (esp. for cutting, pasting, etc.)
-  * `v` from normal mode
-* command
-  * for entering commands
-  * `:` from normal mode (followed by the command)
+
+Name | Purpose | Command
+--- | --- | ---
+normal | default | `<ESC>` from any other mode
+insert | typing code | `i` from normal mode
+visual | selecting text <br> (esp. for cutting, pasting, etc.) | `v` from normal mode
+command | entering commands | `:` from normal mode (followed by the command)
 
 ### File management
 
@@ -31,7 +26,7 @@ ZZ
 ### Movement
 
 Enter | Result
---- | ---
+:---: | ---
 `w` | go the beginning of the next word
 `e` | go to end of current word
 `$` | go to end of line
