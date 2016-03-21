@@ -1,6 +1,6 @@
 # C Syntax != JavaScript
 
-A compendium of C syntax that is mostly different that JavaScript.
+A compendium of C syntax. Focusing on items that differ from JavaScript.
 
 ### Keywords
 
@@ -40,7 +40,7 @@ Operator | Description
 `while` | Start a while-loop
 
 ### Data Operators
-Mainly used with pointers
+Mainly used with pointers.
 
 Operator | Description
 :---: | ---
