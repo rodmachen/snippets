@@ -1,9 +1,8 @@
 # C Syntax != JavaScript
 
-A compendium of C syntax that is different that JavaScript.
+A compendium of C syntax that is mostly different that JavaScript.
 
 ### Keywords
-Mainly used with pointers
 
 Operator | Description
 :---: | ---
