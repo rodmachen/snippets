@@ -39,6 +39,19 @@ Operator | Description
 `volatile` | Declare a variable might be modified elsewhere
 `while` | Start a while-loop
 
+### Syntax Structures
+
+switch-statement:
+```c
+switch ({{operand}}) {
+    case {{constant}}:
+        {{code}};
+        break;
+    default:
+        {{code}};
+}
+```
+
 ### Data Operators
 Mainly used with pointers.
 
