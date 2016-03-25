@@ -10,6 +10,16 @@ char single_character = 'A';
 char string[] = "word";
 ```
 
+Escape characters:
+
+Character | Meaning
+:---: | ---
+`\n` | newline
+`\t` | tab
+`\b` | backspace
+`\"` | double quote
+`\\` | backslash
+
 ### Execution Keywords
 
 Operator | Description
