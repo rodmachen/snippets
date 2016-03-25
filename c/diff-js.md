@@ -15,6 +15,8 @@ Escape characters:
 Character | Meaning
 :---: | ---
 `\n` | newline
+`\0` | null character
+`\1` | character with numeric value of 1
 `\t` | tab
 `\b` | backspace
 `\"` | double quote
