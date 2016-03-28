@@ -23,6 +23,11 @@ Close and exit
 ZZ
 ```
 
+Save as
+```vim
+:saveas {file}
+```
+
 ### Movement
 
 Enter | Result
