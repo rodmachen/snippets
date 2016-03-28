@@ -10,7 +10,13 @@ char single_character = 'A';
 char string[] = "word";
 ```
 
-Escape characters:
+### Output Conversions
+
+Format<br>Specifier | Description
+:---: | ---
+`%i` | integer
+
+### Escape characters
 
 Character | Meaning
 :---: | ---
