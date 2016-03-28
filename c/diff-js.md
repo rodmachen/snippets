@@ -15,6 +15,11 @@ char string[] = "word";
 Format<br>Specifier | Description
 :---: | ---
 `%i` | integer
+`%g` | displays `%f` and `%e`
+`%f` | floating-point constant
+`%e` | float in scientific notation
+'%c' | single character
+`%s` | string
 
 ### Escape characters
 
