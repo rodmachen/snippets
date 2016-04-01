@@ -62,3 +62,26 @@ Enter | Result
 `dw` | delete through beginning of next word
 `d2e` | delete through end of next word
 `d3$` | delete through end of third line
+
+### Cut, Paste, Undo
+
+Enter | Result
+:---: | ---
+`u` | undo previous entry
+`U` | undo entire line
+`r` + char | replace current character new one
+`dw` | delete through beginning of next word
+`d2e` | delete through end of next word
+`d3$` | delete through end of third line
+
+### Compound Commands
+
+Enter | Equivalent
+:---: | ---
+`C` | `c$`
+`s` | `cl`
+`S` | `^C`
+`I` | `^i`
+`A` | `$a`
+`o` | `A<CR>`
+`O` | `ko`
