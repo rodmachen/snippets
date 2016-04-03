@@ -16,6 +16,13 @@ Command | Explanation
 `j` | Move down
 `f{char}` | Find next character on same line
 `;` | Repeat last `f` command
-`s` | delete single character and enter Insert mode
+`s` | Delete single character and enter Insert mode
+`*` | Search for word under cursor
+`cw` | Change word
+`n` | Advanced to next occurance of searched word
+`` | 
+`` | 
+`` | 
+`` | 
 `` | 
 
