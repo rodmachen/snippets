@@ -6,8 +6,9 @@ A compendium of C syntax. Focusing on items that differ from JavaScript.
 
 Single quotes for single characters; double quotes for strings.
 ```c
-char single_character = 'A';
+char singleCharacter = 'A';
 char string[] = "word";
+char *arrayOfStrings[] = {"one", "two", "three"};
 ```
 
 ### Output Conversions
