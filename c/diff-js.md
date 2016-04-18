@@ -11,6 +11,11 @@ char string[] = "word";
 char *arrayOfStrings[] = {"one", "two", "three"};
 ```
 
+```c
+int singleInteger = 0;
+int *arrayOfIntegers = {1, 2, 3};
+```
+
 ### Output Conversions
 
 Format<br>Specifier | Description
