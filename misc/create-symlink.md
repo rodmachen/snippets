@@ -16,4 +16,8 @@ $ ls -la
 // .vimrc -> /Users/machen/code/dotfiles/.vimrc
 ```
 
-There it is. I've got my .vimrc where I need it, but the actual file is elsewhere. It's the best of both worlds.
+There it is. I've got my .vimrc where I need it, but the actual file is elsewhere. It's the best of both worlds. To unlink the file:
+
+```bash
+$ unlink .vimrc
+```
