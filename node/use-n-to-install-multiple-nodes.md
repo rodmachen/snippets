@@ -1,6 +1,6 @@
 # Use N to install multiple versions of Node
 
-First, make sure some version of Node is installed (mainly for the accompanying NPM capabilities.) I suggest using [Homebrew](http://brew.sh/).
+First, make sure some version of Node is installed (mainly for the accompanying NPM capabilities.) For Macs, I suggest using [Homebrew](http://brew.sh/).
 
 ```
 $ brew install node
