@@ -6,14 +6,14 @@ I have a dotfiles repo that houses things like my .vimrc file. I want to keep it
 
 ```bash
 $ cd ~
-$ ln -sf /Users/machen/code/dotfiles/.vimrc .vimrc
+$ ln -sf /Users/rmachen/local-code/dotfiles/.vimrc .vimrc
 ```
 
 To check, I list all files in the home directory.
 
 ```bash
 $ ls -la
-// .vimrc -> /Users/machen/code/dotfiles/.vimrc
+// .vimrc -> /Users/rmachen/local-code/dotfiles/.vimrc
 ```
 
 There it is. I've got my .vimrc where I need it, but the actual file is elsewhere. It's the best of both worlds. To unlink the file:
